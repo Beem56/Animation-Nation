@@ -6526,6 +6526,15 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+  let cards = [
+  //  Add your card in this section
+  {
+    artName: 'Bonne56',
+    pageLink: './Art/Bonne56/index.html',
+    imageLink: './Art/Bonne56/looong-enby.gif',
+    author: 'Bonne56',
+    githubLink: 'https://github.com/Beem56'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+

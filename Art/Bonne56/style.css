@@ -1,0 +1,27 @@
+div#one{
+	height: 100px;
+	width: 100%;
+	background: #FFF430;
+	animation: slidein .5s linear 5s infinite;
+}
+
+div#two{
+	height: 100px;
+	width: 100%;
+	background: #FFFFFF;
+	animation: slidein .4s linear 5s infinite;
+}
+
+div#three{
+	height: 100px;
+	width: 100%;
+	background: #9C59D1;
+	animation: slidein .3s linear 5s infinite;
+}
+
+div#four{
+	height: 100px;
+	width: 100%;
+	background: #292929;
+	animation: slidein .2s linear 5s infinite;
+}
